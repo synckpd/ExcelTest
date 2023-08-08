@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "885bJvg827Q2PS+tgAYtDERM9tPQdXCI7ASkqMWL3IuXkXqV/rGTOebMSYcDkPNITI5BDyE11tLAAHQNEPoiJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mori\\Documents\\GitHub\\ExcelTest\\ExcelTest.Shared.UI\\ExcelTest.Shared.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230602002\\microsoft.windowsappsdk.1.3.230602002.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.18\\microsoft.netcore.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.28\\microsoft.windows.sdk.net.ref.10.0.19041.28.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.18\\microsoft.aspnetcore.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.18\\microsoft.netcore.app.runtime.win-arm64.6.0.18.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.18\\microsoft.aspnetcore.app.runtime.win-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.18\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.18.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.18\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.18\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.18.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.18\\microsoft.netcore.app.runtime.win-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\mori\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.18\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

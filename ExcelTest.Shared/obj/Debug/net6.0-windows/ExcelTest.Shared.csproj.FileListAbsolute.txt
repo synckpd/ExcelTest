@@ -1,0 +1,14 @@
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\bin\Debug\net6.0-windows\ExcelTest.Shared.deps.json
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\bin\Debug\net6.0-windows\ExcelTest.Shared.dll
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\bin\Debug\net6.0-windows\ExcelTest.Shared.pdb
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\obj\Debug\net6.0-windows\ExcelTest.Shared.csproj.AssemblyReference.cache
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\obj\Debug\net6.0-windows\ExcelTest.Shared.csproj.ResolveComReference.cache
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\obj\Debug\net6.0-windows\ExcelTest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\obj\Debug\net6.0-windows\ExcelTest.Shared.AssemblyInfoInputs.cache
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\obj\Debug\net6.0-windows\ExcelTest.Shared.AssemblyInfo.cs
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\obj\Debug\net6.0-windows\ExcelTest.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\obj\Debug\net6.0-windows\ExcelTest.Shared.dll
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\obj\Debug\net6.0-windows\refint\ExcelTest.Shared.dll
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\obj\Debug\net6.0-windows\ExcelTest.Shared.pdb
+C:\Users\mori\Documents\GitHub\ExcelTest\ExcelTest.Shared\obj\Debug\net6.0-windows\ref\ExcelTest.Shared.dll
